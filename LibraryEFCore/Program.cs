@@ -6,7 +6,7 @@ namespace LibraryEFCore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello branch1!");
 
             // Автоматическое закрытие объекта
             using (AppContext ap = new AppContext())
